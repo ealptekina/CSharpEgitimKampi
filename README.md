@@ -1,4 +1,6 @@
 Ders Listesi ve Proje Tanımları
+
+
 Proje 1: Merhaba Dünya, Temel Yazdırma Komutları
 Amaç: C#’a giriş yapmak, ilk kodu yazmak ve konsola çıktı almak.
 İçerik: Console.WriteLine() ile ekrana metin yazdırma, temel değişken tanımlamaları (String, Int), ve C# çalışma mantığı hakkında temel bilgiler.
