@@ -43,4 +43,4 @@ Amaç: Kod tekrarını azaltmak ve fonksiyonel programlamaya geçiş yapmak.
 
 Proje 9: SQL Veri Tabanı ve Tablo Oluşturma & C# Bağlantısı
 Amaç: C# ile SQL veritabanı bağlantısı kurarak veri işlemlerini öğrenmek.
-İçerik: SQL Server'da veritabanı ve tablo oluşturma, C# ile SQL bağlantısı yaparak veri ekleme, güncelleme, silme ve okuma işlemleri.
+İçerik: SQL Server'da veritabanı ve tablo oluşturma, C# ile SQL bağlantısı yaparak veri okuma işlemleri.
